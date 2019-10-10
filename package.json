@@ -23,7 +23,7 @@
     "rxjs": "6.5.3",
     "tslib": "1.10.0",
     "webpack-dev-server": "3.8.2",
-    "zone.js": "0.8.29"
+    "zone.js": "0.10.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "0.800.3",
