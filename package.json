@@ -19,7 +19,7 @@
     "@angular/platform-browser": "8.2.10",
     "@angular/platform-browser-dynamic": "8.2.10",
     "@angular/router": "8.2.10",
-    "core-js": "3.23.5",
+    "core-js": "3.24.1",
     "rxjs": "6.6.6",
     "tslib": "2.3.1",
     "webpack-dev-server": "4.10.0",
